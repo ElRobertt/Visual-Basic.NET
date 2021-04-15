@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\bin\Debug\EXAMEN.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\bin\Debug\EXAMEN.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\bin\Debug\EXAMEN.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\bin\Debug\EXAMEN.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\EXAMEN\obj\Debug\EXAMEN.pdb

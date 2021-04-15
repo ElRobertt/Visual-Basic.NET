@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA - SUELDO.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA___SUELDO.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA - SUELDO.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA - SUELDO.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\bin\Debug\TAREA - SUELDO.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\bin\Debug\TAREA - SUELDO.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\bin\Debug\TAREA - SUELDO.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\bin\Debug\TAREA - SUELDO.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA - SUELDO.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA - SUELDO.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA - SUELDO\obj\Debug\TAREA - SUELDO.pdb

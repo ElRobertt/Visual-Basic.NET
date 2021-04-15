@@ -1,0 +1,10 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\obj\Debug\BECAS.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\obj\Debug\BECAS.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\obj\Debug\BECAS.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\bin\Debug\BECAS.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\bin\Debug\BECAS.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\bin\Debug\BECAS.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\bin\Debug\BECAS.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\obj\Debug\BECAS.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\obj\Debug\BECAS.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\BECAS CONALEP\BECAS\obj\Debug\BECAS.pdb

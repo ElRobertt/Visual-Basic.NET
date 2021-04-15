@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\bin\Debug\SueldoEmpleado.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\bin\Debug\SueldoEmpleado.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\bin\Debug\SueldoEmpleado.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\bin\Debug\SueldoEmpleado.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\7 BASICOS\SueldoEmpleado\obj\Debug\SueldoEmpleado.pdb

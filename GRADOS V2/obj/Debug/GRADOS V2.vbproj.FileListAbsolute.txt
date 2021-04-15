@@ -1,0 +1,12 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\bin\Debug\GRADOS V2.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\bin\Debug\GRADOS V2.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\bin\Debug\GRADOS V2.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\bin\Debug\GRADOS V2.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS V2.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS_V2.Form1.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS_V2.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS V2.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS V2.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS V2.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS V2.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\GRADOS V2\obj\Debug\GRADOS V2.pdb

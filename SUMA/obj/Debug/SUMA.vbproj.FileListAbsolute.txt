@@ -1,0 +1,12 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\bin\Debug\SUMA.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\bin\Debug\SUMA.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\bin\Debug\SUMA.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\bin\Debug\SUMA.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.Form1.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\SUMA\obj\Debug\SUMA.pdb

@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.vb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

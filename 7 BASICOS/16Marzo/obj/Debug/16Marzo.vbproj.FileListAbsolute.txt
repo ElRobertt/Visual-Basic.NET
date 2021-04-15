@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\16Marzo\bin\Debug\16Marzo.exe.config
+C:\Users\rober\source\repos\16Marzo\bin\Debug\16Marzo.exe
+C:\Users\rober\source\repos\16Marzo\bin\Debug\16Marzo.pdb
+C:\Users\rober\source\repos\16Marzo\bin\Debug\16Marzo.xml
+C:\Users\rober\source\repos\16Marzo\obj\Debug\16Marzo.vbprojResolveAssemblyReference.cache
+C:\Users\rober\source\repos\16Marzo\obj\Debug\_16Marzo.Resources.resources
+C:\Users\rober\source\repos\16Marzo\obj\Debug\16Marzo.vbproj.GenerateResource.cache
+C:\Users\rober\source\repos\16Marzo\obj\Debug\16Marzo.vbproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\16Marzo\obj\Debug\16Marzo.exe
+C:\Users\rober\source\repos\16Marzo\obj\Debug\16Marzo.xml
+C:\Users\rober\source\repos\16Marzo\obj\Debug\16Marzo.pdb

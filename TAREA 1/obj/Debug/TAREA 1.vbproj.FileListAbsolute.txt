@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\bin\Debug\TAREA 1.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\bin\Debug\TAREA 1.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\bin\Debug\TAREA 1.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\bin\Debug\TAREA 1.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA 1.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA_1.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA 1.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA 1.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA 1.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA 1.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\TAREA 1\obj\Debug\TAREA 1.pdb

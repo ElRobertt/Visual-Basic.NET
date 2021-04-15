@@ -1,0 +1,12 @@
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\bin\Debug\COLORES.exe.config
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\bin\Debug\COLORES.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\bin\Debug\COLORES.pdb
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\bin\Debug\COLORES.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.vbprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.Form1.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.Resources.resources
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.vbproj.GenerateResource.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.exe
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.xml
+C:\Users\rober\Documents\PROGRAMAS\VISUAL CODIGOS\COLORES\obj\Debug\COLORES.pdb
